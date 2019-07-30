@@ -1,11 +1,8 @@
-# OTA-Software-Update-ESP32-Csharp
-Performing an 'OTA' (over-the-air) software update on an ESP32 chipset device.
 
-Exercise 10: OTA update via GitHub
+OTA software update via GitHub
 ===
 
 # Design
-
 
 In order to perform an OTA update on the ESP32 we will first of all connect
 to the uos-other network and access the "com3505.gate.ac.uk" web server. Once
